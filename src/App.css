@@ -9,6 +9,7 @@ body {
   margin: 0px;
   padding: 0px;
 }
+
 /* general */
 .overlay-container{
   position:relative;
@@ -75,11 +76,9 @@ body {
   }
   @keyframes fadeIn {
   0% {opacity:0;
-    /* transform: translateY(-20px); */
   }
   
   100% {opacity:1;
-  /* transform: translateY(0); */
   }
 }
 
@@ -136,12 +135,10 @@ p{
   background-image:linear-gradient(45deg,#3d350873, #FFB800);
   color:#ffffff;
   letter-spacing:6px;
-
 }
 
 .header span {
   font: 600 1.6rem 'Kanit', sans-serif;
-  /* line-height: 1; */
 }
 
 .headerReverse{

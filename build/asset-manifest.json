@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b97e3535.chunk.css",
+    "main.js": "/static/js/main.e9cb2920.chunk.js",
+    "main.js.map": "/static/js/main.e9cb2920.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e1b32460.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e1b32460.js.map",
+    "static/css/2.6a85b400.chunk.css": "/static/css/2.6a85b400.chunk.css",
+    "static/js/2.cf1986bb.chunk.js": "/static/js/2.cf1986bb.chunk.js",
+    "static/js/2.cf1986bb.chunk.js.map": "/static/js/2.cf1986bb.chunk.js.map",
+    "static/js/3.29401c11.chunk.js": "/static/js/3.29401c11.chunk.js",
+    "static/js/3.29401c11.chunk.js.map": "/static/js/3.29401c11.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6a85b400.chunk.css.map": "/static/css/2.6a85b400.chunk.css.map",
+    "static/css/main.b97e3535.chunk.css.map": "/static/css/main.b97e3535.chunk.css.map",
+    "static/js/2.cf1986bb.chunk.js.LICENSE.txt": "/static/js/2.cf1986bb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/roboto-slab-latin-900.a31e8d7e.woff",
+    "static/media/App.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1b32460.js",
+    "static/css/2.6a85b400.chunk.css",
+    "static/js/2.cf1986bb.chunk.js",
+    "static/css/main.b97e3535.chunk.css",
+    "static/js/main.e9cb2920.chunk.js"
+  ]
+}
